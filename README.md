@@ -3,7 +3,7 @@
 
 ---
 
-**Tools Used:** Python, PyGad,  &nbsp;&nbsp;&nbsp;&nbsp; **Keywords:** Computer vision, Genetic learning, Optimization
+**Tools Used:** Python, PyGad, cv2 &nbsp;&nbsp;&nbsp;&nbsp; **Keywords:** Computer vision, Genetic learning, Optimization
 
 ---
 
