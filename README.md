@@ -7,6 +7,8 @@
 
 ---
 
+Note: ASSCI Madness is not my project - check out the original work [here](https://github.com/big-evil-fish/ASCII-MADNESS-GAME- target="_blank")
+
 ### Description:
 &nbsp;&nbsp;&nbsp;&nbsp;Description
 
