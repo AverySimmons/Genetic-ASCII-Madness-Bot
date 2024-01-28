@@ -10,7 +10,7 @@
 Note: ASSCI Madness is not my project - check out the original work [here](https://github.com/big-evil-fish/ASCII-MADNESS-GAME-)
 
 ### Description:
-&nbsp;&nbsp;&nbsp;&nbsp;ASCII Madness is a bullet hell roguelike made by a friend of mine. I had always wanted to make a bot to play a game, and here was the perfect opportunity; the game was fun and skill-based, with simple enough graphics for basic computer vision to work. More importantly, the source code was available, meaning that I would not have to recreate the game from scratch to train an AI.
+&nbsp;&nbsp;&nbsp;&nbsp;A bot that plays the game ASCII Madness made from a combination of genetic learning and computer vision. ASCII Madness is a bullet hell roguelike made by a friend of mine. I had always wanted to make a bot to play a game, and here was the perfect opportunity; the game was fun and skill-based, with simple enough graphics for basic computer vision to work. More importantly, the source code was available, meaning that I would not have to recreate the game from scratch to train an AI.
 <br><br>
 First, I removed all source code related to displaying graphics. Since ASCII Madness is built using the CMU Graphics library, this also meant reorganizing game logic to eliminate dependencies on certain built-in functions. Next, I combined the Python libraries PyGad and TensorFlow to train a neural network to play the game with proficiency. To aid troubleshooting during this step, I also created a replay system that saved the coordinates of objects in the played game for later playback.
 <br><br>
