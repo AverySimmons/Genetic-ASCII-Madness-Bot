@@ -1,3 +1,10 @@
+####################################################################################################
+# The VAST majority of code in this file is a slightly modified version of code that is NOT MINE   #
+# Please check out the original project here: https://github.com/big-evil-fish/ASCII-MADNESS-GAME- #
+####################################################################################################
+
+
+
 #credit to 112 tetris for a few matrix collision functions!
 import copy
 import math
@@ -1040,6 +1047,9 @@ def getFirstIndex(arr, target):
     for i in range(len(arr)):
         if arr[i] == target: return i
     return -1
+
+#####################################################################################################
+#####################################################################################################
 
 def angleBetweenVectors(A, B):
     # Convert the vectors to NumPy arrays
